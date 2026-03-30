@@ -152,17 +152,17 @@ Seeking roles in:
 ## ⚔️ Final Message to Titans
 
 <p align="center">
-<img src="https://media.tenor.com/2roX3uxz_68AAAAC/levi-ackerman.gif" width="520"/>
+<img src="https://media1.tenor.com/m/rV4BERtCh4MAAAAC/eren-aot-s4.gif" width="520"/>
 </p>
 
 <p align="center">
 
-### "What the hell is wrong with you, Beast Titan?"
+### "Keep moving forward."
 
 </p>
 
 <p align="center">
 
-*Keep moving forward. Keep building systems. Keep eliminating uncertainty.*
+*Until all uncertainty is eliminated.*
 
 </p>
