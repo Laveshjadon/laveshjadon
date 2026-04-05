@@ -21,6 +21,10 @@
 <img src="https://img.shields.io/badge/Focus-AI%20Systems-black?style=for-the-badge"/>
 </p>
 
+<!-- ================= VISITOR COUNT ================= -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Laveshjadon&style=for-the-badge&color=0e75b6&label=Profile%20Views" alt="Profile Views" />
+</p>
 
 <!-- ================= FLOATING ATTACK ON TITAN GIF ================= -->
 
